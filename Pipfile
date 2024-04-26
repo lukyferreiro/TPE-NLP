@@ -11,6 +11,10 @@ jupyter = "*"
 notebook = "*"
 pandas = "*"
 plotly = "*"
+wordcloud = "*"
+scikit-learn = "*"
+transformers = "*"
+torch = "*"
 
 [dev-packages]
 
